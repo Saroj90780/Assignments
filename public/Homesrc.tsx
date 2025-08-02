@@ -126,7 +126,7 @@ const Homesrc = () => {
             </Box>
             <Box sx={{
                 height: "130px",
-                backgroundColor: "rgba(0, 8, 91, 1)",
+                backgroundColor: "rgba(0, 7, 77, 1)",
                 width: "100%",
                 display: "flex",
                 justifyContent: "center",
